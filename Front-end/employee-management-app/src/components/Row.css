@@ -1,0 +1,19 @@
+tbody:nth-child(odd){background-color: #f2f2f2;}
+.expand{
+    background-color: #1affff;
+}
+.expandButton{
+    text-align: center;
+}
+.firstName{
+    position: absolute;
+    transform: translate(+270%,-500%);
+}
+.lastName{
+    position: absolute;
+    transform: translate(+500%,-500%);
+}
+.Tech{
+    position: absolute;
+    transform: translate(+200%,-400%);
+}
